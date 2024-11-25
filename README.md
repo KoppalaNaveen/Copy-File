@@ -39,7 +39,7 @@ copy_file(source_file, destination_file)
 ```
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/1c5813f6-d514-4075-a9de-2e8163c96573)
+![image](https://github.com/user-attachments/assets/c1fc53f9-feed-4acb-bb77-779ce7e3e005)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
